@@ -1,0 +1,1 @@
+#True if valor== 10 else False

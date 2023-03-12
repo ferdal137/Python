@@ -1,0 +1,1 @@
+Aca se ponen los paquetes (librerias) con su version para el desarrollo en grupo
