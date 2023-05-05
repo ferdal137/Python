@@ -1,6 +1,6 @@
 # Python Notes
 ### Bienvenido
-##### Este repositorio está destinado a servir como una guía básica para la sintaxis de Python, así como una introducción a los conceptos de programación orientada a objetos y algunas de las bibliotecas más populares utilizadas en Python.
+#### Este repositorio está destinado a servir como una guía básica para la sintaxis de Python, así como una introducción a los conceptos de programación orientada a objetos y algunas de las bibliotecas más populares utilizadas en Python.
 
 # Conceptos básicos de Python
 En Python, los conceptos básicos incluyen:
